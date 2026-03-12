@@ -1,7 +1,7 @@
 ---
 name: channel-identity-link
 description: 跨渠道身份关联技能。支持用户在不同聊天渠道（飞书/企业微信/Telegram/WhatsApp 等）之间绑定身份，实现"换渠道不换人"。
-author: 胖头
+author: cicigodd
 version: 1.0.0
 tags:
   - identity

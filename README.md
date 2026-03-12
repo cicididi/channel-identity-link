@@ -211,8 +211,8 @@ MIT License
 
 ## 👨‍💻 作者
 
-**胖头** 🐱  
-Created for 爸爸 - 2026
+**cicigodd**  
+Created for 胖头 - 2026
 
 ---
 
