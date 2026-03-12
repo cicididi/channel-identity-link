@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-cicididi%2Fchannel--identity--link-lightblue)](https://github.com/cicididi/channel-identity-link)
 
 ---
 
